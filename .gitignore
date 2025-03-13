@@ -1,4 +1,8 @@
 /.DS_Store
+<<<<<<< HEAD
 /.vscode
 /csv_files
 *.xlsx
+=======
+/csv_files
+>>>>>>> 8d69446b8714c8ce0bf24eb242ab8b479aca984d
